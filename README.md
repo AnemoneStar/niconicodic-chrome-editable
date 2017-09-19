@@ -7,7 +7,9 @@ Chromeでニコニコ大百科が編集できない問題に**暫定的に**対�
 
 Chrome以外で動くかはわかりませんが、Chromium系列なら動くんじゃないでしょうか。
 
+## なにをしてるの
 
+`https://dic.nicovideo.jp/p/*`に`X-XSS-Protection: 0`を注入してるだけ
 
 ## thanks
 
